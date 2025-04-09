@@ -14,29 +14,29 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**I am a Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html). I advise and support development teams in best practices of Model-Based Design using MATLAB/Simulink.**
+I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink.
 
-**Formerly, I was a PhD student and research associate at the [Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/) at the [Technical University of Munich](https://www.tum.de/en/).**
+Formerly, I was a research associate at the **[Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/)** at the **[Technical University of Munich](https://www.tum.de/en/)**.
 
-My research was focused on 
 
-- accuracy improvement of robot-based milling processes,
+**My research** was primarily focused on 
 
-- information fusion of data-driven models and physics-based structural models using probabilistic machine learning methods and
+🤖 accuracy improvement of **robot-based milling** processes,
 
-- smart data analytics and information security in cloud-based data processing of OPC UA machine tool data.
+💡 information fusion of **data-driven models** and **physics-based structural models** using probabilistic machine learning methods and
+
+☁️ smart **data analytics** and information security in cloud-based data processing of OPC UA machine tool data.
+
+---
 
 ---
 
----
+### **I am familiar with ...**
 
-### **My personal Tech Stack**
-
----
 
 **Model-Based Design (MBD)**
 
-[![MBD Workflow Optimization](https://img.shields.io/badge/MBD%20Workflow%20Optimization-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]([https://www.python.org](https://de.mathworks.com/solutions/model-based-design.html))
+[![MBD Workflow Optimization](https://img.shields.io/badge/MBD%20Workflow%20Optimization-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/solutions/model-based-design.html)
 [![CI/CD Workflows](https://img.shields.io/badge/CI/CD%20Workflows-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/solutions/enterprise-it-systems/ci-cd.html)
 [![Code Generation](https://img.shields.io/badge/Code%20Generation-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/help/overview/code-generation.html?s_tid=hc_product_group_bc)
 [![Physical Modeling](https://img.shields.io/badge/Physical%20Modeling-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/help/simscape/physical-modeling.html)
