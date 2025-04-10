@@ -124,5 +124,3 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![ISO 9001:2015](https://img.shields.io/badge/certified%20Quality%20Management%20Representative%20(QMR,%20ISO%209001:2015)-lightgray?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://mxbusch.github.io)
 
 ---
-
-</div>
