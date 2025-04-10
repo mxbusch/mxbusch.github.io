@@ -30,7 +30,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 
 ---
 
-<div align="center">
 
 ### 🧰 Tooling
 
@@ -42,7 +41,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![CI/CD Workflows](https://img.shields.io/badge/CI/CD%20Workflows-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/solutions/enterprise-it-systems/ci-cd.html)
 [![Code Generation](https://img.shields.io/badge/Code%20Generation-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/help/overview/code-generation.html?s_tid=hc_product_group_bc)
 
-<br />
 
 💬 **Languages**
 
@@ -51,7 +49,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![C/C++](https://img.shields.io/badge/C/C++-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://cplusplus.com)
 [![IEC61131](<https://img.shields.io/badge/IEC 61131--3-blue?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://de.wikipedia.org/wiki/EN_61131)
 
-<br />
 
 🤖 **Robotics**
 
@@ -61,7 +58,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![Chrono](<https://img.shields.io/badge/Project Chrono-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://projectchrono.org)
 [![ROS](https://img.shields.io/badge/ROS-purple?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.ros.org)
 
-<br />
 
 📈 **Data-Driven Modelling**
 
@@ -72,7 +68,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![Chaospy](https://img.shields.io/badge/Chaospy-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/jonathf/chaospy)
 [![scikit](https://img.shields.io/badge/scikit--learn-pink?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://scikit-learn.org/stable/)
 
-<br />
 
 🌐 **Internet of Things and Industry 4.0**
 
@@ -81,7 +76,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![Elastic](https://img.shields.io/badge/Elastic-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/)
 [![Kibana](https://img.shields.io/badge/Kibana-white?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.elastic.co/de/kibana/)
 
-<br />
 
 〰️ **Structural Dynamics**
 
@@ -89,7 +83,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![pyEMA](https://img.shields.io/badge/pyEMA-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/ladisk/pyEMA)
 [![LMS](https://img.shields.io/badge/LMS-black?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.wikipedia.org/wiki/LMS_(Unternehmen))
 
-<br />
 
 📊 **Data Processing**
 
@@ -100,7 +93,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![Plotly](https://img.shields.io/badge/Plotly-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly)
 [![Dash](https://img.shields.io/badge/Dash-yellow?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://github.com/plotly/dash)
 
-<br />
 
 ⚙️ **Hardware**
 
@@ -111,7 +103,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![RaspberryPi](<https://img.shields.io/badge/Raspberry Pi-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://www.raspberrypi.com/)
 [![NIDAQ](<https://img.shields.io/badge/NI DAQ-green?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle>)](https://www.ni.com/en-us/shop/data-acquisition.html)
 
-<br />
 
 🛠️ **Development Tools**
 
@@ -126,7 +117,7 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 [![git](https://img.shields.io/badge/git-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/Docker-red?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://www.docker.com)
 
-<br />
+
 
 📃 **Miscellaneous**
 
