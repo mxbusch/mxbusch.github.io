@@ -29,7 +29,6 @@ I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/cons
 
 The focus is on simulations and control applications for **industry, automation and machinery**.
 
-<br/><br/>
 
 Formerly, I was a research associate at the **[Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/)** at the **[Technical University of Munich (TUM)](https://www.tum.de/en/)**.
 
@@ -41,8 +40,6 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 💡 information fusion of **data-driven models** and **physics-based structural models** using probabilistic machine learning methods and
 
 ☁️ smart **data analytics** and information security in cloud-based data processing of OPC UA machine tool data.
-
-<br/><br/>
 
 
 ---
