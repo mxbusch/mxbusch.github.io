@@ -32,8 +32,6 @@ The focus is on simulations and control applications for **industry, automation 
 
 ---
 
-If you want, I can also make it sound more polished for a brochure or website.
-
 Formerly, I was a research associate at the **[Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/)** at the **[Technical University of Munich (TUM)](https://www.tum.de/en/)**.
 
 
