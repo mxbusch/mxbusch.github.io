@@ -15,7 +15,6 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-
 ### 🙋‍♂️ About me
 
 ---
@@ -43,8 +42,10 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 
 ☁️ smart **data analytics** and information security in cloud-based data processing of OPC UA machine tool data.
 
----
+<br/><br/>
 
+
+---
 
 ### 🧰 Tooling
 
