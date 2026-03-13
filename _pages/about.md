@@ -42,11 +42,11 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 ---
 
 
-### 🧰 Tooling and proven track record
+### 🧰 Tooling and Knowledge
 
 ---
 
-🚀 **Project Management and Customer-facing Engineering**
+🚀 **Project Management and Customer-Facing Engineering**
 
 • Project planning, execution and management of concurrent technical engagement projects
 
@@ -62,7 +62,7 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 • Optimizing development workflows through automation and integration
 
 
-💬 **Software Development For Engineered Systems**
+💬 **Software Development for Engineered Systems**
 
 • Writing performant and maintainable code across (MATLAB, Python, C/C++)
 
