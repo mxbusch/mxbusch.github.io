@@ -15,7 +15,19 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink.
+I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink. including workflows and best practices for
+
+♾️ automated software integration, testing, and deployment processes (CI/CD),
+
+💻 code generation (C/C++), and
+
+🏭 methods and techniques for plant and system modeling.
+
+The focus is on simulations and control applications for **industry, automation and machinery**.
+
+---
+
+If you want, I can also make it sound more polished for a brochure or website.
 
 Formerly, I was a research associate at the **[Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/)** at the **[Technical University of Munich (TUM)](https://www.tum.de/en/)**.
 
@@ -35,7 +47,7 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 
 ---
 
-♾️ **Model-Based Design (MBD)**
+ **Model-Based Design (MBD)**
 
 [![MBD Workflow Optimization](https://img.shields.io/badge/MBD%20Workflow%20Optimization-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/solutions/model-based-design.html)
 [![CI/CD Workflows](https://img.shields.io/badge/CI/CD%20Workflows-darkgreen?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)](https://de.mathworks.com/solutions/enterprise-it-systems/ci-cd.html)
