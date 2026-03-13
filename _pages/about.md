@@ -15,6 +15,11 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
+
+### 🙋‍♂️ About me
+
+---
+
 I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink. including workflows and best practices for
 
 ♾️ automated software integration, testing, and deployment processes (CI/CD),
