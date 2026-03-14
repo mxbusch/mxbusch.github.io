@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Dr.-Ing. (PhD) | Accelerating the pace of engineering and science
+subtitle: Dr.-Ing. (PhD) | Accelerating the pace of engineering and science <br>
 
 profile:
   align: center
