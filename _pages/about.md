@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Dr.-Ing. (PhD) | Accelerating the pace of engineering and science <br>
+subtitle: Dr.-Ing. (PhD) | Accelerating the pace of engineering and science
 
 profile:
   align: center
@@ -14,6 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
 ---
+
+<br>
 
 I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink. including workflows and best practices for
 
