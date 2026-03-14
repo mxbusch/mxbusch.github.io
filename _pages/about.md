@@ -15,6 +15,9 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
+Dr. Ing. |  Accelerating the pace of engineering and science
+
+---
 
 I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink. including workflows and best practices for
 
