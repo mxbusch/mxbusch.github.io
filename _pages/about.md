@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Dr.-Ing. (PhD) | Accelerating the pace of engineering and science
 
 profile:
   align: center
@@ -15,17 +15,13 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Dr. Ing. |  Accelerating the pace of engineering and science
-
----
-
 I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink. including workflows and best practices for
 
-♾️ automated software integration, testing, and deployment processes (CI/CD),
+♾️  automated software integration, testing, and deployment processes (CI/CD),
 
-💻 code generation (C/C++), and
+💻  code generation (C/C++), and
 
-🏭 methods and techniques for plant and system modeling.
+🏭  methods and techniques for plant and system modeling.
 
 The focus is on simulations and control applications for **industry, automation and machinery**.
 
@@ -35,11 +31,11 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 
 **My research** was primarily focused on 
 
-🤖 accuracy improvement of **robot-based milling** processes,
+🤖  accuracy improvement of **robot-based milling** processes,
 
-💡 information fusion of **data-driven models** and **physics-based structural models** using probabilistic machine learning methods and
+💡  information fusion of **data-driven models** and **physics-based structural models** using probabilistic machine learning methods and
 
-☁️ smart **data analytics** and information security in cloud-based data processing of OPC UA machine tool data.
+☁️  smart **data analytics** and information security in cloud-based data processing of OPC UA machine tool data.
 
 
 ---
