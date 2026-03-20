@@ -23,7 +23,7 @@ I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/cons
 
 💻  code generation (C/C++), and
 
-🏭  methods and techniques for plant and system modeling.
+🏭  system and plant modeling and control design.
 
 The focus is on simulations and control applications for **industry, automation and machinery**.
 
