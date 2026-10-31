@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 
-I am a **Senior Technical Consultant at [MathWorks](https://mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink. including workflows and best practices for
+I am a **Senior Technical Consultant at [MathWorks](https://www.mathworks.com/services/consulting.html)**. I advise and support development teams in best practices of **Model-Based Design** using MATLAB/Simulink. including workflows and best practices for
 
 ♾️  automated software integration, testing, and deployment processes (CI/CD),
 
@@ -29,7 +29,7 @@ The focus is on simulations and control applications for **industry, automation 
 
 <br>
 
-Formerly, I was a research associate at the **[Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/homepage/)** at the **[Technical University of Munich (TUM)](https://www.tum.de/en/)**.
+Formerly, I was a research associate at the **[Institute for Machine Tools and Industrial Management (*iwb*)](https://www.mec.ed.tum.de/en/iwb/institute/)** at the **[Technical University of Munich (TUM)](https://www.tum.de/en/)**.
 
 
 **My research** was primarily focused on 
