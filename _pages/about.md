@@ -67,7 +67,7 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 
 💬 **Software Development for Engineered Systems**
 
-• Writing performant and maintainable code across (MATLAB, Python, C/C++)
+• Writing performant and maintainable code or apply software development principles for Model-Based Design for generating optimized code for embedded systems
 
 • Applying domain-specific languages for industrial automation
 
