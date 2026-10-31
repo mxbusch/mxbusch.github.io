@@ -6,7 +6,7 @@ subtitle: Dr.-Ing. (PhD) | Accelerating the pace of engineering and science
 
 profile:
   align: center
-  image: IMG_2745.png
+  image: profile.jpg
   image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
