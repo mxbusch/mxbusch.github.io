@@ -21,9 +21,9 @@ I am a **Technical Consultant at [MathWorks](https://mathworks.com/services/cons
 
 ♾️  automated software integration, testing, and deployment processes (CI/CD),
 
-💻  code generation (C/C++), and
+🏭  system and plant modeling and control design, and
 
-🏭  system and plant modeling and control design.
+🧠  agentic Model-Based Design workflows.
 
 The focus is on simulations and control applications for **industry, automation and machinery**.
 
@@ -56,7 +56,7 @@ Formerly, I was a research associate at the **[Institute for Machine Tools and I
 • Business development
 
 
-🧠 **Model-Based Design (MBD)**
+👨‍🔬 **Model-Based Design (MBD)**
 
 • Designing and simulating control systems using abstract models
 
